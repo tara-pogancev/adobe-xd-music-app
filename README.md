@@ -22,5 +22,5 @@ The wireframe design is made using **AdobeXD**.
 
 
 ## Screenshots
-![Reverb](imgages/screenshot01.jpg)
-![Reverb](imgages/screenshot02.jpg)
+![Reverb](images/screenshot01.jpg)
+![Reverb](images/screenshot01.jpg)
